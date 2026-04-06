@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash
 
-<!--
-**akashsaha-ml/akashsaha-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Python & Data Science enthusiast focused on AI and Machine Learning.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python  
+- Data Analysis  
+- Machine Learning  
+- Web Scraping  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- Data Analysis Project  
+- ML Prediction Model  
+- Web Scraping Automation  
+
+## 🎯 Goal
+To work on AI training and data science projects.
+
